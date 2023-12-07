@@ -18,4 +18,4 @@ Plus, initial data cleaning as follows:
 ### Code
 - `1_local_revenue_61to65_concat_clean.ipynb` is a Jupyter notebook for data cleaning and aggregation.
 
-- [WIP] '2_local_revenue_61to65_eda.ipynb' is a Jupyter notebook for exploratory data analysis.
+- [WIP] `2_local_revenue_61to65_eda.ipynb` is a Jupyter notebook for exploratory data analysis.
