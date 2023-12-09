@@ -1,5 +1,8 @@
 ## [DataHack] Thailand Local Administration: Special Grant and Local Revenue Data
 
+### Datasets and Notebooks are also available on Kaggle:
+https://www.kaggle.com/datasets/pamin2222/datahack-thai-local-govt-grants-and-revenue-data/code
+
 ### Data source
 ข้อมูลเงินอุดหนุนเฉพาะกิจ / รายได้ท้องถิ่น
 https://twitter.com/teng_mfp/status/1731115208557703516
@@ -16,6 +19,7 @@ Plus, initial data cleaning as follows:
   - Convert financial values to numeric
   - strip whitespace for string columns, and row values
   - Correct typo & normalize values for 'จังหวัด', 'อำเภอ', and 'ชื่อท้องถิ่น'
+
 
 ### Code
 - `1_local_revenue_61to65_concat_clean.ipynb` is a Jupyter notebook for data cleaning and aggregation.
